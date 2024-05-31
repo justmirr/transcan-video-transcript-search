@@ -1,0 +1,9 @@
+ffmpeg==1.4
+ffmpeg-python==0.2.0
+numpy==1.26.4
+streamlit==1.35.0
+openai-whisper==20231117
+pytube==15.0.0
+pydub==0.25.1
+youtube-transcript-api==0.6.2
+transformers==4.41.1
