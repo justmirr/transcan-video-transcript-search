@@ -1,10 +1,10 @@
 # TranScan
 
-TranScan is a **Streamlit application** designed for **summarizing and searching YouTube video transcripts**. It leverages **YouTube_Transcript_API** and **Whisper** for audio to fetch transcripts, **Hugging Face's Transformers** for summarization, and **PyDub** with **FFmpeg** for audio processing. This tool enables users to easily access key information with keyword searches and timestamped results.
+TranScan is a **Streamlit application** designed for **summarizing and searching video transcripts**. It leverages **YouTube_Transcript_API** and **Whisper** for audio to fetch transcripts, **Hugging Face's Transformers** for summarization, and **PyDub** with **FFmpeg** for audio processing. This tool enables users to easily access key information with keyword searches and timestamped results.
 
 ## Features
 
-- **Summarize YouTube Video Transcripts**: Generate concise summaries of long video transcripts.
+- **Summarize Video Transcripts**: Generate concise summaries of long video transcripts.
 - **Keyword Search**: Search for keywords within video transcripts and display matching results with timestamps.
 - **Audio Processing**: Utilize PyDub with FFmpeg to handle audio processing tasks.
 - **Streamlit Interface**: User-friendly web interface built with Streamlit.
