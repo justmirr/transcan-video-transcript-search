@@ -15,8 +15,8 @@ To install TranScan, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/TranScan.git
-    cd TranScan
+    git clone https://github.com/yourusername/transcan-video-transcript-search.git
+    cd transcan-video-transcript-search
     ```
 
 2. **Create and activate a virtual environment**:
@@ -38,7 +38,7 @@ To install TranScan, follow these steps:
 
 1. **Start the Streamlit app**:
     ```sh
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 2. **Using the Application**:
