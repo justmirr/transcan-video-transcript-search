@@ -48,3 +48,6 @@ To install TranScan, follow these steps:
    - Choose between **"Summarize"** or **"Search within the video"**.
    - If selecting **"Upload a Video"**, upload your video file.
    - View the summarized transcript or search results with timestamps.
+  
+## Demonstration
+   - Check out the live demonstration (here)[https://transcan-video-transcript-search.streamlit.app/].
