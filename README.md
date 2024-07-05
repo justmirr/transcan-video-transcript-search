@@ -50,4 +50,4 @@ To install TranScan, follow these steps:
    - View the summarized transcript or search results with timestamps.
   
 ## Demonstration
-   - Check out the live demonstration (here)[https://transcan-video-transcript-search.streamlit.app/].
+   - Check out the live demonstration ([here](https://transcan-video-transcript-search.streamlit.app/).
