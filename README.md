@@ -15,7 +15,7 @@ To install TranScan, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/transcan-video-transcript-search.git
+    git clone https://github.com/justmirr/transcan-video-transcript-search.git
     cd transcan-video-transcript-search
     ```
 
